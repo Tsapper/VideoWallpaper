@@ -4,3 +4,6 @@ obj/
 *.user
 publish/
 Output/
+CLAUDE.md
+build-installer.ps1
+installer.iss
